@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Joylinton04
-- I'm a Frontend web developer
-- I’m currently learning Node js
-- I’m looking to collaborate on projects
+I'm a Frontend web developer with the passion of combining creativity and beautiful design to build interactive web applications
 
 
