@@ -1,7 +1,6 @@
-- I'm a Frontend web developer, 
-with the passion of combining creativity
-And beautiful design to build interactive web applications
-
-- I am looking forward to collaborate on web development projects
+- I specialize in crafting captivating and user-centric web experiences as a frontend developer with one year of professional practice.
+- I find immense joy in creating visually stunning and highly interactive web applications.
+- My expertise revolves around React, Tailwind CSS, and JavaScript, enabling me to bring seamless functionality and compelling designs to life.
+- Available for gigs
 
 
