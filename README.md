@@ -16,8 +16,8 @@ const myTechStack = {
   frameworks: ['React.js'],
   styling: ['Tailwind CSS', 'CSS-in-JS'],
   stateManagement: ['Redux'],
-  tools: ['Git', 'Webpack', 'npm/yarn'],
-  currentlyLearning: ['TypeScript', 'Next.js']
+  tools: ['Git','npm','vite'],
+  currentlyLearning: ['nodejs','express','mongodb']
 };
 ```
 
