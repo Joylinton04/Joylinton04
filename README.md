@@ -1,4 +1,4 @@
-# Hello, I'm [Adu Joy Atakora] 👋
+# Hello, I'm Adu Joy Atakora 👋
 
 ## Frontend Developer
 
