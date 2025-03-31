@@ -33,7 +33,7 @@ const myTechStack = {
 I'm currently available for freelance opportunities and collaboration on exciting projects! Feel free to reach out through:
 
 - **Email**: [adujoy05@gmail.com](mailto:adujoy05@gmail.com)
-- **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/joy-adu989/)]
+- **LinkedIn**: [[linkedin.com/in/joy-adu989/](https://www.linkedin.com/in/joy-adu989/)]
 - **Portfolio**: [https://portfolio-website989.vercel.app](https://portfolio-website989.vercel.app/)
 
 ---
