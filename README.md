@@ -13,7 +13,7 @@ I transform concepts into reality by building visually stunning and highly inter
 ```javascript
 const myTechStack = {
   languages: ['JavaScript', 'HTML', 'CSS'],
-  frameworks: ['React.js'],
+  frameworks: ['Reactjs', 'Nextjs'],
   styling: ['Tailwind CSS', 'CSS-in-JS'],
   stateManagement: ['Redux'],
   tools: ['Git','npm','vite'],
