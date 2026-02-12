@@ -2,7 +2,7 @@
 
 ## Fullstack Developer
 
-I specialize in crafting captivating and user-centric web experiences with a passion for bringing designs to life through code. With **3+ years** of professional experience, I'm constantly growing and refining my skills in the ever-evolving world of frontend development.
+I specialize in crafting captivating and user-centric web experiences with a passion for bringing designs to life through code. With **3+ years** of professional experience, I'm constantly growing and refining my skills in the ever-evolving world of fullstack development.
 
 ### 💻 What I Do
 
