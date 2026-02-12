@@ -1,8 +1,8 @@
 # Hello, I'm Adu Joy Atakora 👋
 
-## Frontend Developer
+## Fullstack Developer
 
-I specialize in crafting captivating and user-centric web experiences with a passion for bringing designs to life through code. With 3+ year of professional experience, I'm constantly growing and refining my skills in the ever-evolving world of frontend development.
+I specialize in crafting captivating and user-centric web experiences with a passion for bringing designs to life through code. With **3+ years** of professional experience, I'm constantly growing and refining my skills in the ever-evolving world of frontend development.
 
 ### 💻 What I Do
 
@@ -12,12 +12,12 @@ I transform concepts into reality by building visually stunning and highly inter
 
 ```javascript
 const myTechStack = {
-  languages: ['JavaScript', 'HTML', 'CSS'],
-  frameworks: ['Reactjs', 'Nextjs'],
-  styling: ['Tailwind CSS', 'CSS-in-JS'],
+  languages:       ['JavaScript', 'HTML', 'CSS'],
+  frameworks:      ['React.js', 'Next.js'],
+  styling:         ['Tailwind CSS', 'CSS-in-JS'],
   stateManagement: ['Redux'],
-  tools: ['Git','npm','vite'],
-  currentlyLearning: ['nodejs','express','mongodb']
+  tools:           ['Git', 'npm', 'Vite'],
+  backend:         ['Node.js', 'Express', 'MongoDB']
 };
 ```
 
